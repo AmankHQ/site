@@ -1,7 +1,7 @@
 ---
 title: "O que é SaaS Management Platform e porque você está perdendo dinheiro sem um"
 description: "Descubra a eficiência do Software as a Service (SaaS) em comparação com o desenvolvimento tradicional de TI. Saiba como as Plataformas de Gerenciamento de SaaS (SMPs) reduzem desperdícios e otimizam custos. Conheça a solução da Amank para o controle de assinaturas de SaaS e revolucione a gestão de SaaS nas empresas brasileiras."
-date: 2023-08-30:12:00-03:00
+date: 2023-08-30T12:00:00-03:00
 draft: false
 ---
 
